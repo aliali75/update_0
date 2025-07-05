@@ -1,1 +1,4 @@
-1.0.2
+ota_github_0.ino.bin
+0
+device123
+groupA
