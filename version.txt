@@ -1,4 +1,4 @@
-update_grok_1.ino.bin
+update_grok_2.ino.bin
 0
 device123
 groupA
