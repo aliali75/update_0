@@ -1,4 +1,4 @@
-ota_github_3.ino.bin
+update_grok_0.ino.bin
 0
 device123
 groupA
