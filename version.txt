@@ -1,4 +1,4 @@
-update_grok_3.ino.bin
+updateGIT.ino.bin
 0
 device123
 groupA
