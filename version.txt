@@ -1,4 +1,4 @@
-update_qwen.ino_0.bin
+update_qwen.ino_1.bin
 1device123
 первая строка основная прошивка
 вторая строка приватная
